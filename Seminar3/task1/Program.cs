@@ -16,7 +16,7 @@ if (len == 5)
     }
     else
     {
-        System.Console.WriteLine("Ваше число НЕ палиндром");
+        System.Console.WriteLine("Ваше число не палиндром");
     }
 }
 else
